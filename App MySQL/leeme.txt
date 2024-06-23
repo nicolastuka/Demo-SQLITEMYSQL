@@ -1,0 +1,3 @@
+Montar el entorno vitual
+Ingresar al entorno virtual
+Instalar la librería:           pip install mysql-connector-python

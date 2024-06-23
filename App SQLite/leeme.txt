@@ -1,0 +1,1 @@
+No hace falta instalar librerías adicionales ni crear un entorno virtual para este ejemplo
